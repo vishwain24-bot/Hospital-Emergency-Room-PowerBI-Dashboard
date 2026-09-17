@@ -1,4 +1,4 @@
-# Hospital Emergency Room Power BI Dashboard
+# Hospital Emergency Room Power BI Dashboard.pbix
 
 ## Project Overview
 This project analyzes hospital emergency room data using Power BI.
