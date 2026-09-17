@@ -20,3 +20,7 @@ The dashboard provides insights into:
 ## Project Files
 - hospital.pbix
 - Dashboard screenshots
+
+## 📷 Dashboard Preview
+
+![Hospital Emergency Room Power BI Dashboard](Screenshot%202026-09-17%20195254.png)
