@@ -4,8 +4,7 @@
 This project analyzes hospital emergency room data using Power BI.
 
 ## Tools Used
-- SQL
-- Python
+- Microsoft excel
 - Power BI
 
 ## Dashboard
