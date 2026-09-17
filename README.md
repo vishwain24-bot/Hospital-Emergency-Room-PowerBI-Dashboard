@@ -23,4 +23,18 @@ The dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-![Hospital Emergency Room Power BI Dashboard](Screenshot%202026-09-17%20195254.png)
+### Dashboard Screenshot 1
+
+![Dashboard Screenshot 1](Screenshot%202026-09-17%20195254.png)
+
+### Dashboard Screenshot 2
+
+![Dashboard Screenshot 2](Screenshot%202026-09-17%20195353.png)
+
+### Dashboard Screenshot 3
+
+![Dashboard Screenshot 3](Screenshot%202026-09-17%20195426.png)
+
+### Dashboard Screenshot 4
+
+![Dashboard Screenshot 4](Screenshot%202026-09-17%20195510.png)
