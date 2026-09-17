@@ -106,9 +106,10 @@ Business Insights
 
 The project demonstrates how raw hospital emergency room data can be transformed into an interactive dashboard that makes important information easier to analyze and communicate.
 
-##👤 About the Author
+👤 About the Author
 
 Vishwa s
+
 is an aspiring Data Analyst with an interest in transforming raw data into meaningful business insights.
 
 This project demonstrates practical skills in **Microsoft Excel, Power BI, data cleaning, data analysis, data visualization, and dashboard development**.
